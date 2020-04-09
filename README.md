@@ -7,3 +7,4 @@ To run the project, open the terminal for the folder in VS Code and type:
 ```bash
 npm start
 ```
+then scan the qr code with the Expo App on your phone or run in an android emulator.
